@@ -15,13 +15,13 @@ GTU offers a wide range of features that you can use to enrich your gameplay exp
 
 - Custom Skins: With GTU, you can design custom skins for your gorilla character. This allows you to have a unique appearance and enables you to express your creativity and personality in the game.
 
-- Private Lobbies: GTU allows you to create private lobbies where you can play with your friends and enjoy a more personalized and intimate gameplay experience.
+- Private Lobbies: GTU allows you to create private lobbies where you can play with your friends and other people that have the mod! enjoy a more personalized and intimate gameplay experience.
 
 - Custom Sounds: You can add custom sounds and music to your game, creating a unique and memorable experience that you won't find anywhere else.
 
 ## Getting Started
 
-Getting started with GTU is straightforward. First, download the application onto your computer or laptop. Once installed, Launch the GTU application and select the settings that you want to customize. The game will automatically apply your settings, and you'll be ready to start playing.
+Getting started with GTU is straightforward. First, disable your antivirus as the .dlls files in the exe that inject into your game can sometimes falsly flag the windows defender. proceed by downloading the application onto your computer or laptop. Once installed, Launch the GTU application and select the settings that you want to customize. The game will automatically apply your settings, and you'll be ready to start playing.
 
 ## Conclusion
 
