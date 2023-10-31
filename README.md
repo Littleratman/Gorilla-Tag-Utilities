@@ -1,5 +1,5 @@
 # Gorilla-Tag-Utilities
-This is an 20$ program that was cracked and made free by us :)
+One of our newest tools so please enjoy and make sure you report any bugs or problems in the issues tab which could be found here, https://github.com/Littleratman/Gorilla-Tag-Utilities/issues
 
 # Gorilla Tag Utilities (GTU)
 
