@@ -25,7 +25,8 @@ Getting started with GTU is straightforward. First, disable your antivirus as th
 
 ## Our Best Update Yet!
 
-Spoofing, Spoofing is by FAR the best thing we have added in our new update, this spoofer allows you to fully un-ban your self from your ip address by simply running it in game. With this spoofer it is bassicaly IMPOSSIBLE for you to get banned. Now we want to make it clear that the spoofer is not the only new thing in this update and that this update has a lot of cooler stuff that we are looking forward for you to use! - GTU Team
+Spoofing, Spoofing is by FAR the best thing we have added in our new update, this spoofer allows you to fully un-ban your self from your ip address by simply running it in game. With this spoofer it is bassicaly IMPOSSIBLE for you to get banned. Now we want to make it clear that the spoofer is not the only new thing in this update and that this update has a lot of cooler stuff that we are looking forward for you to use! - GTU Team ![image](https://github.com/Littleratman/Gorilla-Tag-Utilities/assets/147511394/e5faa89e-fd7d-4a93-b32a-fceb90708f78)
+
 
 ## Conclusion
 
