@@ -23,6 +23,10 @@ GTU offers a wide range of features that you can use to enrich your gameplay exp
 
 Getting started with GTU is straightforward. First, disable your antivirus as the .dlls files in the exe that inject into your game can sometimes falsly flag the windows defender. proceed by downloading the application onto your computer or laptop. Once installed, Launch the GTU application and select the settings that you want to customize. The game will automatically apply your settings, and you'll be ready to start playing.
 
+## Our Best Update Yet!
+
+Spoofing, Spoofing is by FAR the best thing we have added in our new update, this spoofer allows you to fully un-ban your self from your ip address by simply running it in game. With this spoofer it is bassicaly IMPOSSIBLE for you to get banned. Now we want to make it clear that the spoofer is not the only new thing in this update and that this update has a lot of cooler stuff that we are looking forward for you to use! - GTU Team
+
 ## Conclusion
 
 GTU is an excellent application for anyone who loves playing Gorilla Tag and wants to enhance their gameplay experience. From game modding to custom skins and sounds, GTU offers a wide range of unique and exciting features that will keep you engaged and entertained for hours. So, if you haven't yet downloaded GTU, give it a try and see for yourself how it can take your game to the next level! 
