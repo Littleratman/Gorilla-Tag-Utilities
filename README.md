@@ -5,6 +5,14 @@ One of our newest tools so please enjoy and make sure you report any bugs or pro
 
 Gorilla Tag Utilities (GTU) is a unique application that allows you to modify your gameplay experience in the popular virtual reality game, Gorilla Tag. This application is available on both Oculus Quest and SteamVR platforms and is specially designed to enhance your gameplay and provide a completely new and customized experience that you won't be able to find anywhere else.
 
+## FAQ
+
+**Why is GTU a .bat file?** GTU is a .bat file because the file provided is only the loader. to make sure no one cracks our src/steals our source code, the main purpose of it being a loader is to hide the **Import Namespace** on our menu so it doesnt get cracked and stolen!
+
+**Why does GTU sometimes **FALSELY** Detect as a virus?** GTUI sometimes Falsely detects as a virus because the monosharp dependencie in our spoofer can detect as a virus because it reads your ip so it can spoof it, therefore your antivirus might detect it as trying to steal your information. Please keep in mind we have a ZERO log policy and do NOT store our users information.
+
+**How can you help us?** Helping us is very easy and simple. all you have to do is star this repository and create any issues you have with the progranm so we can see your feedback!
+
 ## Features
 
 GTU offers a wide range of features that you can use to enrich your gameplay experience. Some of the most notable features include:
